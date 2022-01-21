@@ -116,7 +116,7 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 
 <td align="center" width="20%">
 <!-- <span><b><center>Postgresql</center></b></span>  -->
-<img height=65px src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png"> 
+<img height=55px src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png"> 
 </td>
 
 </tr>
