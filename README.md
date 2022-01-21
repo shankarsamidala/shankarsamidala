@@ -113,18 +113,9 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <img height=65px src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Postgresql</center></b></span> 
-<img height=65px src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png"> 
-</td>
 
 <td align="center" width="20%">
-<span><b><center>Postgresql</center></b></span> 
-<img height=65px src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Postgresql</center></b></span> 
+<!-- <span><b><center>Postgresql</center></b></span>  -->
 <img height=65px src="https://icons-for-free.com/iconfiles/png/512/postgresql+plain+wordmark-1324760555518154961.png"> 
 </td>
 
