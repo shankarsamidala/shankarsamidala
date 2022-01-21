@@ -50,14 +50,14 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <span><b><center>Azure</center></b></span> 
 <img height=60px src="https://swimburger.net/media/ppnn3pcl/azure.png"> 
 </td>
+</tr>
 
-
-
+<tr>
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
-</tr>
+
 
 <td align="center" width="20%">
 <span><b><center>Ansible</center></b></span> 
@@ -75,14 +75,15 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
+</tr>
 
+<tr>
 <td align="center" width="20%">
 <span><b><center>Jenkins</center></b></span> 
 <img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
 </td>
-</tr>
 
-<tr>
+
 <td align="center" width="20%">
 <span><b><center>Kubernetes</center></b></span> 
 <img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
