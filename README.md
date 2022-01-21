@@ -148,7 +148,7 @@ Watch my contribution graph being eaten by a Snake! 🐍
 
 #### Profile Visits 
 
-![visitors](https://gitstats.me/shankarsamidala)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
 
 <details>
 <summary>
