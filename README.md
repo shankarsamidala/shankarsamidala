@@ -64,10 +64,9 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
 </td>
 
-
 <td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Kubernetes</center></b></span> 
+<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -83,13 +82,14 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 </tr>
 
 <tr>
+
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>Django</center></b></span> 
+<img height=65px src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-community-logo.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
+<span><b><center>Linux Administration</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
 </td>
 
