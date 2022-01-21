@@ -124,15 +124,18 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 </tbody>
 </table>
 
-[![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shankarsamidala)](https://git.io/J1Ycx)
+[![Shankar Samidala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shankarsamidala)](https://github.com/shankarsamidala)
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**DevTernShip**]() | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd?style=flat&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Internship-LMS-FrontEnd?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls?q=is%3Apr+is%3Aclosed)  |
 <!-- | [**Hacktoberfest-Project-Ideas**](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Hacktoberfest-Project-Ideas?color=green&logo=github&style=flat)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Hacktoberfest-Project-Ideas?style=flat&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Hacktoberfest-Project-Ideas?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls?q=is%3Apr+is%3Aclosed)   | -->
 
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+| ![Shankar Samidala GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shankarsamidala&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarsamidala) |
+| --- | --- |
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankarsamidala) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/shankarsamidala) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/praveenscience" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
 ### Tutorials
 
