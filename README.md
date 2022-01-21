@@ -110,7 +110,7 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <tr>
 <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
-<img height=65px src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"> 
+<img height=60px src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"> 
 </td>
 
 
