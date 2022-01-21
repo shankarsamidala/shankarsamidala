@@ -141,7 +141,7 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/shankarsamidala/shankarsamidala/master/soc/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 ### Tutorials
 
