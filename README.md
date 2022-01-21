@@ -33,15 +33,25 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
-</td>
 
 <td align="center" width="20%">
 <span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"> 
 </td>
+
+
+<td align="center" width="20%">
+<span><b><center>GCP</center></b></span> 
+<img height=60px src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png"> 
+</td>
+
+
+<td align="center" width="20%">
+<span><b><center>Azure</center></b></span> 
+<img height=60px src="https://swimburger.net/media/ppnn3pcl/azure.png"> 
+</td>
+
+
 
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
@@ -49,9 +59,15 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 </td>
 </tr>
 
+<td align="center" width="20%">
+<span><b><center>Ansible</center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+</td>
+
+
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
+<span><b><center>Django</center></b></span> 
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
 
@@ -93,12 +109,12 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 
 <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<img height=65px src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<span><b><center>Postgresql</center></b></span> 
+<img height=65px src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png"> 
 </td>
 </tr>
 
