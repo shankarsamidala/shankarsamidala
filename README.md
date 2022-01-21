@@ -50,14 +50,13 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 <span><b><center>Azure</center></b></span> 
 <img height=60px src="https://swimburger.net/media/ppnn3pcl/azure.png"> 
 </td>
-</tr>
 
-<tr>
+
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
-
+</tr>
 
 <td align="center" width="20%">
 <span><b><center>Ansible</center></b></span> 
