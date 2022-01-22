@@ -149,7 +149,7 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 | --- | --- |
 | ![Shankar Samidala  GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shankarsamidala) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/shankarsamidala) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/praveenscience" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=shankarsamidala)
+![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=shankarsamidala&count_private=true)
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
