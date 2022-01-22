@@ -141,8 +141,8 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 | [**DevTernShip**]() | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd?style=flat&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Internship-LMS-FrontEnd?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls?q=is%3Apr+is%3Aclosed)  |
 <!-- | [**Hacktoberfest-Project-Ideas**](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Hacktoberfest-Project-Ideas?color=green&logo=github&style=flat)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Hacktoberfest-Project-Ideas?style=flat&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Hacktoberfest-Project-Ideas?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls?q=is%3Apr+is%3Aclosed)   | -->
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
+<!-- ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif) -->
+![Mario](https://c.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
 #### Github Stats
 
 | ![Shankar Samidala GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shankarsamidala&show_icons=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarsamidala) |
