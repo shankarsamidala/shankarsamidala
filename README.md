@@ -1,5 +1,5 @@
 
-# Hello there! 👋🏻 I am Shankar Samidala! <img src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif" alt="hi" width="80" height="80 />
+# Hello there! 👋🏻 I am Shankar Samidala! <img src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif" alt="hi" width="80" height="80" />
 
 ![Shankar Samidala Banner Image](./bnr.png)
 
