@@ -13,9 +13,13 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
 
 <!-- TODO: Add last video link -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
