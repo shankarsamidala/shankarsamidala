@@ -9,7 +9,11 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 :mailbox: Reach me out!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@shankarsamidala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shankarsamidala)](https://twitter.com/shankarsamidala) [![Linkedin Badge](https://img.shields.io/badge/-shankarsamidala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samidalashankar/) [![Mail Badge](https://img.shields.io/badge/-@samidalashankar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mr.lazydeveloper/) [![Mail Badge](https://img.shields.io/badge/-samidalashankar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samidalashankar@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@shankarsamidala-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shankarsamidala)](https://twitter.com/shankarsamidala) [![Linkedin Badge](https://img.shields.io/badge/-shankarsamidala-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samidalashankar/) [![Mail Badge](https://img.shields.io/badge/-@samidalashankar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mr.lazydeveloper/) [![Mail Badge](https://img.shields.io/badge/-samidalashankar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samidalashankar@gmail.com) 
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
 
 <!-- TODO: Add last video link -->
 
@@ -149,9 +153,7 @@ Watch my contribution graph being eaten by a Snake! 🐍
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
 
 <details>
 <summary>
