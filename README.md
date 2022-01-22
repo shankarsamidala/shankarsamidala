@@ -1,6 +1,10 @@
 
 # Hello there! 👋🏻 I am Shankar Samidala! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" width="50" />
 
+![Shankar Samidala Banner Image](./bnr.png)
+
+<p><b>Testing</b></p>
+
 I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Developer Evangelist & Cloud Computing Consultant. I Spend most of time coding outstanding projects or Designing Architectures.
 
 :mailbox: Reach me out!
