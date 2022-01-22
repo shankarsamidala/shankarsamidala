@@ -3,7 +3,6 @@
 
 ![Shankar Samidala Banner Image](./bnr.png)
 
-<p><b>Testing</b></p>
 
 I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Developer Evangelist & Cloud Computing Consultant. I Spend most of time coding outstanding projects or Designing Architectures.
 
