@@ -8,7 +8,7 @@
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
 
 
-I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Developer Evangelist & Cloud Computing Consultant. I Spend most of time coding outstanding projects or Designing Architectures.
+I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Developer Evangelist & Cloud Architect . I Spend most of time coding outstanding projects or Designing Architectures.
 
 :mailbox: Reach me out!
 
