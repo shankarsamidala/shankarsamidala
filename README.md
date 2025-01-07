@@ -8,7 +8,7 @@
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=shankarsamidala.shankarsamidala)
 
 
-I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Developer & Cloud Architect . I Spend most of time coding outstanding projects or Designing Architectures.
+I am Shankar Samidala 🙋🏻‍♂️, a Cook,APP Developer, Web Developer & Cloud Architect . I Spend most of time coding outstanding projects or Designing Architectures.
 
 :mailbox: Reach me out!
 
@@ -20,7 +20,7 @@ I am Shankar Samidala 🙋🏻‍♂️, a Cook,Front End Architect, Web Develop
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 HackClub Leader
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: samidalashankar@gmail.com.
